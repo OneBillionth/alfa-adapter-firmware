@@ -1,0 +1,1 @@
+savedcmd_/home/azamat/rtl8812au/88XXau.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/azamat/rtl8812au/88XXau.ko /home/azamat/rtl8812au/88XXau.o /home/azamat/rtl8812au/88XXau.mod.o;  true
